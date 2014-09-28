@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[describe '#${1:instance_method}' do
+  $0
+end]]></content>
+    <tabTrigger>dim</tabTrigger>
+    <scope>source.ruby.rspec</scope>
+    <description>describe '#instance_method' do … end</description>
+</snippet>

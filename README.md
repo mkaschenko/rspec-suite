@@ -8,3 +8,4 @@ The package provides a set of snippets and REPLACE_ME.
 * `dc` describe Class
 * `dm` describe Module
 * `dcm` describe '.class_method'
+* `dim` describe '#instance_method'
