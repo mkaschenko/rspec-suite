@@ -9,3 +9,4 @@ The package provides a set of snippets and REPLACE_ME.
 * `dm` describe Module
 * `dcm` describe '.class_method'
 * `dim` describe '#instance_method'
+* `itr` it 'returns ...'
