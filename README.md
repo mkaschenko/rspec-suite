@@ -7,3 +7,4 @@ The package provides a set of snippets and REPLACE_ME.
 ### There are snippets inside:
 * `dc` describe Class
 * `dm` describe Module
+* `dcm` describe '.class_method'

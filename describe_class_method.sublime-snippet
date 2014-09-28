@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[describe '.${1:class_method}' do
+  $0
+end]]></content>
+    <tabTrigger>dcm</tabTrigger>
+    <scope>source.ruby.rspec</scope>
+    <description>describe '.class_method' do … end</description>
+</snippet>
