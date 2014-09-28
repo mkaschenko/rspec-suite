@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[describe ${1:${TM_FILENAME/(?:\A|_)([A-Za-z0-9]+)(?:_spec\.rb)?/(?2::\u$1)/g}} do
+  $0
+end]]></content>
+    <tabTrigger>dc</tabTrigger>
+    <scope>source.ruby.rspec</scope>
+    <description>describe Class do … end</description>
+</snippet>
