@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[it 'returns ${1:something}' do
+    <content><![CDATA[it 'returns ${1:...}' do
   $0
 end]]></content>
     <tabTrigger>itr</tabTrigger>
