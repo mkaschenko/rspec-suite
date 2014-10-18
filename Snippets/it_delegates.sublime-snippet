@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[it 'delegates to ${1:...}' do
+  $0
+end]]></content>
+    <tabTrigger>itd</tabTrigger>
+    <scope>source.ruby.rspec</scope>
+    <description>it 'delegates to ...' do … end</description>
+</snippet>
