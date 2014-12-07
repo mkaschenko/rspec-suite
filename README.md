@@ -9,5 +9,5 @@ The package provides a set of snippets.
 * `dc` describe Class
 * `dcm` describe '.class_method'
 * `dim` describe '#instance_method'
-* `itr` it 'returns ...'
 * `itde` it 'delegates to ...'
+* `itre` it 'returns ...'

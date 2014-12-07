@@ -2,7 +2,7 @@
     <content><![CDATA[it 'returns ${1:...}' do
   $0
 end]]></content>
-    <tabTrigger>itr</tabTrigger>
+    <tabTrigger>itre</tabTrigger>
     <scope>source.ruby.rspec</scope>
     <description>it 'returns ...' do … end</description>
 </snippet>
