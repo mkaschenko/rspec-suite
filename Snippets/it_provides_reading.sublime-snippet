@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[it 'provides reading of ${1:...}' do
+  $0
+end]]></content>
+    <tabTrigger>itr</tabTrigger>
+    <scope>source.ruby.rspec</scope>
+    <description>it 'provides reading of ...' do … end</description>
+</snippet>
