@@ -10,5 +10,6 @@ The package provides a set of snippets.
 * `dcm` describe '.class_method'
 * `dim` describe '#instance_method'
 * `itr` it 'provides reading of ...'
+* `itw` it 'provides writing of ...'
 * `itde` it 'delegates to ...'
 * `itre` it 'returns ...'
